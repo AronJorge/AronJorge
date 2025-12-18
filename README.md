@@ -37,13 +37,13 @@ Soy un **Desarrollador de software** especializado en ingeniería de alto nivel.
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&height=40" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&height=40" />
 <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white&height=40" />
-<img src="https://img.shields.io/badge/Python(Django)-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&height=40" />
+<img src="https://img.shields.io/badge/Python(Django)-3776AB?style=for-the-badge&logo=python&logoColor=white&height=40" />
 
 ### Cloud & AI
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&height=40" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&height=40" />
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white&height=40" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=GoogleGemini&logoColor=white&height=40" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white&height=40" />
 
 </div>
 
