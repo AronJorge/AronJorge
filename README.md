@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://jorgegutierrez.dev">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Jorge%20Gutierrez&fontAlign=50&desc=Desarrollador%20de%20software%20|%20Senior&descSize=24&descAlignY=54&stroke=20&animation=twinkling&fontAlignY=38&textBg=false&reversal=false&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0f172a&text=Jorge%20Gutierrez&fontAlign=50&fontColor=22c55e&desc=Senior%20Software%20Architect%20|%20Mobile%20AI&descSize=24&descAlignY=54&stroke=20&animation=twinkling&fontAlignY=38&textBg=false&reversal=false&section=header" />
 </a>
 </div>
 
@@ -12,10 +12,10 @@
 
 Soy un **Desarrollador de software** especializado en ingeniería de alto nivel. Ayudo a **empresas y negocios digitales** a escalar su tecnología, optimizar costos y asegurar la estabilidad de sus plataformas críticas.
 
-- 🔭 **Actualmente:** Integrando Agentes de IA en ecosistemas empresariales.
-- 💼 **Consultoría:** Disponible para auditorías de arquitectura y optimización de rendimiento.
-- 🌱 **Stack Principal:** Flutter, Android, iOS, Python, Laravel, Google Cloud & AI Agents.
-- ⚡ **Enfoque:** Clean Architecture, SOLID & Scalability First.
+- **Actualmente:** Integrando Agentes de IA en ecosistemas empresariales.
+- **Consultoría:** Disponible para auditorías de arquitectura y optimización de rendimiento.
+- **Stack Principal:** Flutter, Android, iOS, Python, Laravel, Google Cloud & AI Agents.
+- **Enfoque:** Clean Architecture, SOLID & Scalability First.
 
 </div>
 
